@@ -34,18 +34,8 @@
 # **App Logo & Download**
 
 <p align="center">
-  <a href="https://www.figma.com/proto/XehhuQY66Z6BTlJI2IDmuI/Islamic-Application?node-id=26-97&starting-point-node-id=2%3A185&t=QFYCp1eOrfwCRgV2-1" target="_blank" style="text-decoration: none;">
-    <span style="
-      display: inline-block;
-      background-color: #4CAF50;
-      color: white;
-      padding: 10px 20px;
-      font-size: 16px;
-      border-radius: 5px;
-      text-align: center;
-    ">
-      View Full Application Prototype
-    </span>
+  <a href="https://www.figma.com/prototype/your-figma-link-here" target="_blank">
+    <img src="assets\btn.png" alt="View Prototype" width="200"/>
   </a>
 </p>
 
