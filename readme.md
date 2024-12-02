@@ -105,7 +105,6 @@
   <img width="260" alt="Image 20" src="screenshots/sc  (20).png">
   <img width="260" alt="Image 10" src="screenshots/sc  (10).png">
   <img width="260" alt="Image 19" src="screenshots/sc  (19).png">
-
 </p>
 
 <p align="center">
@@ -124,9 +123,6 @@
   <img width="260" alt="Image 11" src="screenshots/sc  (11).png">
   <img width="260" alt="Image 7" src="screenshots/sc  (7).png">
   <img width="260" alt="Image 8" src="screenshots/sc  (8).png">
-</p>
-
-<p align="center">
 </p>
 
 # **For More Info:**
