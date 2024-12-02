@@ -33,7 +33,7 @@
 
 # **App Logo & Download**
 
-<table border="1" width="100%" >
+<table align="center" border="1" width="100%" >
   <thead>
     <tr>
       <th colspan="2">App Logo & Download</th>
