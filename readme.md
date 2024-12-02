@@ -34,7 +34,7 @@
 # **App Logo & Download**
 
 <p align="center">
-  <a href="https://www.figma.com/prototype/your-figma-link-here" target="_blank">
+  <a href="[https://www.figma.com/prototype/your-figma-link-here](https://www.figma.com/proto/XehhuQY66Z6BTlJI2IDmuI/Islamic-Application?node-id=26-97&starting-point-node-id=2%3A185&t=QFYCp1eOrfwCRgV2-1)" target="_blank">
     <img src="assets\btn.png" alt="View Prototype" width="200"/>
   </a>
 </p>
